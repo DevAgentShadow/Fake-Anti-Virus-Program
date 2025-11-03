@@ -1,6 +1,6 @@
 # Fake Anti Virus Program (CONSOLE SUPPORT)
 
-This program has a fake anti virus it completely uses python and right now it only has console support i will use soon add Panel Support 
+This program has a fake anti virus it completely uses python and right now it only has console support i will use soon add Panel Support FOr now it supports console only.
 
 # How to run this program?
 1. Use any Code editor but i strongly recommed to 
